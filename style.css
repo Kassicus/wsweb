@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Roboto&display=swap');
+
+body {
+    background-color: rgb(40, 40, 47);
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+}
+
+.page {
+    width: 750px;
+    height: 100vh;
+    background-color: white;
+    margin: auto;
+}
+
+.banner-space {
+    width: 100%;
+    height: 350px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.logo {
+    margin: auto;
+    width: 35%;
+    aspect-ratio: auto;
+}
+
+.cs-banner {
+    font-size: 48px;
+    text-align: center;
+    margin: 0;
+}
+
+.insta {
+    font-size: 36px;
+    text-align: center;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+.contact {
+    font-size: 24px;
+    text-align: center;
+    padding: 0;
+    margin: 5px 0 0 0;
+}
